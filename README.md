@@ -1,8 +1,8 @@
 # Hi, I'm Egor
 
 <p align = 'center'>
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
-<a href="https://github.com/Egor-Always-AFK/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-Always-AFK&layout=compact" /></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Egor-Always-AFK&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/Egor-Always-AFK/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact" /></a>
  </p>
  
  <p align='center'>
